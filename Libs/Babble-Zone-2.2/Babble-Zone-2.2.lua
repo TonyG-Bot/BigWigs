@@ -200,6 +200,24 @@ end)
 
 BabbleZone:RegisterTranslations("esES", function()
 	return {
+		["Emerald Sanctum"] = "Sagrario Esmeralda",
+		["Alah'thalas "] = "Alah'thalas",
+		["Amani'Alor"] = "Amani'Alor",
+		["Crescent Grove"] = "Crescent Grove",
+		["Gillijim's Isle"] = "Isla de Gillijim",
+		["Gilneas City"] = "Ciudad de Gilneas",
+		["Gilneas"] = "Gilneas",
+		["Hateforge Quarry"] = "Cantera de Forja del Odio",
+		["Icepoint Rock"] = "Roca del Punto de Hielo",
+		["Karazhan Crypt"] = "Cripta de Karazhan",
+		["Lapidis Isle"] = "Isla Lapidis",
+		["Lower Karazhan Halls"] = "Salas Inferiores de Karazhan",
+		["Tower of Karazhan"] = "Torre de Karazhan", -- new twow name
+		["Moomoo Grove"] = "Moomoo Grove",
+		["Scarlet Enclave"] = "Enclave Escarlata",
+		["Stormwind Vault"] = "Bóveda de Ventormenta",
+		["Sunnyglade Valley"] = "Valle Claro Soleado",
+		["The Black Morass"] = "The Black Morass",
 		["Ahn'Qiraj"] = "Ahn'Qiraj",
 		["Alterac Mountains"] = "Montañas de Alterac",
 		["Alterac Valley"] = "Valle de Alterac",
