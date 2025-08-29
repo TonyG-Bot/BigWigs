@@ -64,7 +64,7 @@ L:RegisterTranslations("esES", function() return {
 	icon_name = "Marcar para Observar",
 	icon_desc = "Marca con un icono el jugador observado (require asistente o líder)",
 
-	trigger_watch = "sets eyes on (.+)!",
+	trigger_watch = "pone los ojos en (.+)!",
 	watchwarn = " está siendo observado!",
 	watchwarnyou = "¡Estás siendo observado!",
 	you = "Tu",
