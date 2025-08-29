@@ -40,18 +40,18 @@ L:RegisterTranslations("enUS", function() return {
 L:RegisterTranslations("esES", function() return {
 	--cmd = "Gahzranka",
 
-	frostbreath_trigger = "Gahz\'ranka comienza a lanzar Aliento de Escarcha\.",
+	frostbreath_trigger = "Gahz'ranka comienza a lanzar Aliento de Escarcha.",
 	frostbreath_bar = "Aliento de Escarcha",
-	massivegeyser_trigger = "Gahz\'ranka comienza a lanzar Géiser monumental\.",
-	massivegeyser_bar = "Géiser monumental",
+	massivegeyser_trigger = "Gahz'ranka comienza a lanzar Géiser Monumental.",
+	massivegeyser_bar = "Géiser Monumental",
 
 	--frostbreath_cmd = "frostbreath",
 	frostbreath_name = "Alerta de Aliento de Escarcha",
 	frostbreath_desc = "Avisa cuando el jefe lance Aliento de Escarcha.",
 
 	--massivegeyser_cmd = "massivegeyser",
-	massivegeyser_name = "Alerta de Géiser monumental",
-	massivegeyser_desc = "Avisa cuando el jefe lance Géiser monumental.",
+	massivegeyser_name = "Alerta de Géiser Monumental",
+	massivegeyser_desc = "Avisa cuando el jefe lance Géiser Monumental.",
 } end )
 
 L:RegisterTranslations("deDE", function() return {
